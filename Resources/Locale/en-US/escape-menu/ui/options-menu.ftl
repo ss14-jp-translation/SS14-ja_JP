@@ -37,6 +37,7 @@ ui-options-lobby-music = ロビーとラウンド終了ミュージック
 ui-options-restart-sounds = ラウンド再開サウンド
 ui-options-event-music = イベントミュージック
 ui-options-admin-sounds = 管理者サウンドを再生
+ui-options-bwoink-sound = AHelp通知音を再生する
 ui-options-volume-label = ボリューム
 
 ## Graphics menu
