@@ -1,8 +1,8 @@
 - type: entity
-  name: wirecutter
+  name: ワイヤーカッター
   parent: BaseItem
   id: Wirecutter
-  description: This kills the wire.
+  description: ワイヤーが切れる。
   components:
   - type: EmitSoundOnLand
     sound:
@@ -45,10 +45,10 @@
     price: 30
 
 - type: entity
-  name: screwdriver
+  name: ドライバー
   parent: BaseItem
   id: Screwdriver
-  description: Industrial grade torque in a small screwdriving package.
+  description: 小型のスクリュードライビングパッケージで工業用グレードのトルク。
   components:
   - type: EmitSoundOnLand
     sound:
@@ -89,10 +89,10 @@
     price: 30
 
 - type: entity
-  name: wrench
+  name: レンチ
   parent: BaseItem
   id: Wrench
-  description: 'A common tool for assembly and disassembly. Remember: lefty latchy, righty removey.'
+  description: '組み立てと分解のための一般的な道具。左回転でラッチ、右回転で取り外し。'
   components:
   - type: EmitSoundOnLand
     sound:
@@ -128,10 +128,10 @@
     price: 22
 
 - type: entity
-  name: multitool
+  name: マルチツール
   parent: BaseItem
   id: Multitool
-  description: An advanced tool to copy, store, and send electrical pulses and signals through wires and machines.
+  description: 電気パルスや信号をコピーし、保存し、ワイヤーや機械を通して送信する高度なツール。
   components:
   - type: EmitSoundOnLand
     sound:
@@ -176,10 +176,10 @@
     price: 56
 
 - type: entity
-  name: network configurator
+  name: ネットコンフィグ
   parent: BaseItem
   id: NetworkConfigurator
-  description: A tool for linking devices together. Has two modes, a list mode for mass linking devices and a linking mode for advanced device linking.
+  description: 機器同士をリンクするためのツール。デバイスを大量にリンクするためのリストモードと、高度なデバイスリンクのためのリンクモードの2つのモードがあります。
   components:
     - type: EmitSoundOnLand
       sound:
@@ -229,10 +229,10 @@
 #Power tools
 #Later on these should switch probably switch damage when changing the tool behavior.
 - type: entity
-  name: power drill
+  name: 電動ドリル
   parent: BaseItem
   id: PowerDrill
-  description: A simple powered hand drill.
+  description: シンプルな電動ハンドドリル。
   components:
   - type: Tag
     tags:
@@ -286,7 +286,7 @@
   id: RCD
   parent: [ BaseItem, BaseEngineeringContraband ]
   name: RCD
-  description: The rapid construction device can be used to quickly place and remove various station structures and fixtures. Requires compressed matter to function.
+  description: 様々なステーションの構造物や固定具を素早く設置・撤去できるラピッドコンストラクションデバイス。機能には圧縮物質が必要です。
   components:
   - type: RCD
     availablePrototypes:
@@ -348,7 +348,7 @@
   id: RCDRecharging
   parent: RCD
   name: experimental RCD
-  description: A bluespace-enhanced rapid construction device that passively generates its own compressed matter.
+  description: パッシブに圧縮物質を生成するブルースペース強化型RCD。
   suffix: AutoRecharge
   components:
   - type: LimitedCharges
@@ -362,16 +362,16 @@
   parent: RCD
   suffix: Admeme
   name: experimental RCD
-  description: A bluespace-enhanced rapid construction device that passively generates its own compressed matter.
+  description: パッシブに圧縮物質を生成するブルースペース強化型RCD。
   components:
   - type: AutoRecharge
     rechargeDuration: 1
 
 - type: entity
-  name: compressed matter
+  name: 圧縮物
   parent: BaseItem
   id: RCDAmmo
-  description: A cartridge of raw matter compacted by bluespace technology. Used in rapid construction devices.
+  description: ブルースペース技術により圧縮された原料のカートリッジ。RCDに使用される。
   components:
   - type: RCDAmmo
   - type: Sprite
@@ -388,7 +388,7 @@
     price: 60
 
 - type: entity
-  name: omnitool
+  name: オムニツール
   parent: BaseItem
   id: Omnitool
   description: A drone's best friend.
@@ -454,10 +454,10 @@
 
 #Other
 - type: entity
-  name: shovel
+  name: シャベル
   parent: BaseItem
   id: Shovel
-  description: A large tool for digging and moving dirt.
+  description: 土を掘ったり動かしたりするための大きな道具。
   components:
   - type: Sprite
     sprite: Objects/Tools/shovel.rsi
@@ -483,8 +483,8 @@
 - type: entity
   parent: BaseItem
   id: RollingPin
-  name: rolling pin
-  description: A tool used to shape and flatten dough.
+  name: めん棒
+  description: 生地の形を整え、平らにするための道具。
   components:
   - type: Sprite
     sprite: Objects/Tools/rolling_pin.rsi

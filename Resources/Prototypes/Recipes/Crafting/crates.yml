@@ -1,11 +1,11 @@
 - type: construction
-  name: livestock crate
+  name: 家畜箱
   id: CrateLivestock
   graph: CrateLivestock
   startNode: start
   targetNode: cratelivestock
   category: construction-category-storage
-  description: A wooden crate for holding livestock.
+  description: 家畜を入れる木枠。
   icon: { sprite: Structures/Storage/Crates/livestock.rsi, state: base }
   objectType: Structure
 
