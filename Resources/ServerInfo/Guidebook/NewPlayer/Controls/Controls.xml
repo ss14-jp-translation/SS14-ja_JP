@@ -2,7 +2,7 @@
 # 操作
 
 <Box>キーバインドはここでいつでも変更できる：</Box>
-<Box Orientation="Vertical"><CommandButton Text="ui-options-tab-controls" Command="options 1"/></Box>
+<Box Orientation="Vertical"><CommandButton Text="ui-options-tab-controls" Command="options 2"/></Box>
 
 ## 操作
 [color=yellow][bold][keybind="MoveUp"][keybind="MoveLeft"][keybind="MoveDown"][keybind="MoveRight"][/bold][/color]を使ってゲームの世界を移動することができます。

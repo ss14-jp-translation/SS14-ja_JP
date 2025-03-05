@@ -3,7 +3,9 @@ ghost-gui-ghost-warp-button = ゴーストワープ
 ghost-gui-ghost-roles-button = ゴーストの役割 ({$count})
 ghost-gui-toggle-ghost-visibility-popup-on = ゴーストの可視性を有効にする。
 ghost-gui-toggle-ghost-visibility-popup-off = ゴーストの可視性を無効にする。
-ghost-gui-toggle-lighting-manager-popup = すべての照明を切り替える。
+ghost-gui-toggle-lighting-manager-popup-normal = すべての照明を切り替える。
+ghost-gui-toggle-lighting-manager-popup-personal-light = パーソナルライトを有効にする。
+ghost-gui-toggle-lighting-manager-popup-fullbright = フルブライトモード。
 ghost-gui-toggle-fov-popup = 視野角を切り替える。
 
 ghost-gui-toggle-hearing-popup-on = すべてのメッセージを聞くことができる。
@@ -16,16 +18,8 @@ ghost-target-window-warp-to-most-followed = 最もフォローされている人
 ghost-roles-window-title = ゴーストの役割
 ghost-roles-window-available-button = Available ({$rolesCount})
 ghost-roles-window-join-raffle-button = 抽選会に参加する
-ghost-roles-window-raffle-in-progress-button =
-    Join raffle ({$time} left, { $players ->
-         [one] {$players} player
-        *[other] {$players} players
-    })
-ghost-roles-window-leave-raffle-button =
-    Leave raffle ({$time} left, { $players ->
-         [one] {$players} player
-        *[other] {$players} players
-    })
+ghost-roles-window-raffle-in-progress-button = 抽選会に参加する（残り{$time}、{$players}人）
+ghost-roles-window-leave-raffle-button = 抽選会を残す（残り{$time}、{$players}人）
 ghost-roles-window-request-role-button = リクエスト
 ghost-roles-window-request-role-button-timer = {$time}を要求
 ghost-roles-window-follow-role-button = フォローする
