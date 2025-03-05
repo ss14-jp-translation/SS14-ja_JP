@@ -46,4 +46,4 @@ job-description-serviceworker = バーテンダー、料理、植物栽培の基
 job-description-station-ai = 法律を遵守し、乗組員に奉仕します。
 job-description-visitor = 宇宙ステーションへの訪問をお楽しみください。
 job-description-warden = 警備部門を巡回し、武器庫から盗みを働く者がいないことを確認し、すべての囚人が手続きを済ませ、時間になったら釈放されることを確認します。
-job-description-zookeeper = 乗組員全員が見られるように、かわいい動物や宇宙鯉の楽しい展示をします。現在、Cog と Oasis で利用可能です。
+job-description-zookeeper = 乗組員全員が見られるように、かわいい動物や宇宙鯉の楽しい展示をします。現在、CogとOasisで利用可能です。

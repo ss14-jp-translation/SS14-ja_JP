@@ -1,6 +1,7 @@
 ## General stuff
 
-ui-options-title = ゲーム オプション
+
+ui-options-title = ゲームオプション
 ui-options-tab-accessibility = アクセシビリティ
 ui-options-tab-graphics = グラフィックス
 ui-options-tab-controls = コントロール
@@ -37,6 +38,7 @@ ui-options-lobby-music = ロビーとラウンド終了ミュージック
 ui-options-restart-sounds = ラウンド再開サウンド
 ui-options-event-music = イベントミュージック
 ui-options-admin-sounds = 管理者サウンドを再生
+ui-options-bwoink-sound = AHelp通知音を再生する
 ui-options-volume-label = ボリューム
 
 ## Graphics menu
@@ -275,8 +277,21 @@ cmd-options-help = 使用方法: オプション [tab]
 
 ## Accessibility menu
 
+ui-options-accessability-header-visuals = ビジュアル
+ui-options-accessability-header-content = コンテンツ
+
 ui-options-enable-color-name = キャラクター名に色を追加します
 ui-options-colorblind-friendly = 色覚異常者対応モード
 ui-options-reduced-motion = 視覚効果の動きを減らします
-ui-options-chat-window-opacity = チャットウィンドウの不透明度
 ui-options-screen-shake-intensity = 画面の揺れの強さ
+
+ui-options-chat-window-opacity = チャットウィンドウの不透明度
+ui-options-speech-bubble-text-opacity = 吹き出しテキストの不透明度
+ui-options-speech-bubble-speaker-opacity = 吹き出しスピーカーの不透明度
+ui-options-speech-bubble-background-opacity = 吹き出しの背景の不透明度
+
+ui-options-censor-nudity = 文字のヌードを検閲する。
+
+## Admin menu
+
+ui-options-enable-classic-overlay = アンタゴニストのオーバーレイをクラシック・モードに戻す

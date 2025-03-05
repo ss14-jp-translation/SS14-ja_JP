@@ -59,3 +59,6 @@ trait-cowboy-desc = You speak with a distinct cowboy accent!
 
 #trait-spanish-name = Spanish accent
 #trait-spanish-desc = Hola señor, donde esta la biblioteca.
+
+trait-painnumbness-name = 無感覚
+trait-painnumbness-desc = 痛みを感じる感覚が欠如しており、自分がどれほど傷ついているかに気づいていない。
