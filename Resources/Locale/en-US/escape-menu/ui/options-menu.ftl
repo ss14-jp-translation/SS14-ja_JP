@@ -116,6 +116,11 @@ ui-options-header-shuttle = シャトル
 ui-options-header-map-editor = マップエディター
 ui-options-header-dev = 開発
 ui-options-header-general = 一般
+ui-options-header-text-cursor = テキストカーソル
+ui-options-header-text-cursor-select = テキスト選択
+ui-options-header-text-edit = テキスト編集
+ui-options-header-text-chat = チャット
+ui-options-header-text-other = その他のテキスト入力
 
 ui-options-hotkey-keymap = US QWERTY キーの使用
 ui-options-hotkey-toggle-walk = ウォークの切り替え
@@ -238,6 +243,42 @@ ui-options-function-shuttle-strafe-down = 下方向に移動
 ui-options-function-shuttle-rotate-left = 左に回転
 ui-options-function-shuttle-rotate-right = 右に回転
 ui-options-function-shuttle-brake = ブレーキ
+
+ui-options-function-text-cursor-left = Move cursor left
+ui-options-function-text-cursor-right = Move cursor right
+ui-options-function-text-cursor-up = Move cursor up
+ui-options-function-text-cursor-down = Move cursor down
+ui-options-function-text-cursor-word-left = Move cursor left by word
+ui-options-function-text-cursor-word-right = Move cursor right by word
+ui-options-function-text-cursor-begin = Move cursor to beginning
+ui-options-function-text-cursor-end = Move cursor to end
+ui-options-function-text-cursor-select = Select text
+ui-options-function-text-cursor-select-left = Expand selection left
+ui-options-function-text-cursor-select-right = Expand selection right
+ui-options-function-text-cursor-select-up = Expand selection up
+ui-options-function-text-cursor-select-down = Expand selection down
+ui-options-function-text-cursor-select-word-left = Expand selection left by word
+ui-options-function-text-cursor-select-word-right = Expand selection right by word
+ui-options-function-text-cursor-select-begin = Expand selection to beginning
+ui-options-function-text-cursor-select-end = Expand selection to end
+ui-options-function-text-backspace = Backspace
+ui-options-function-text-delete = Delete
+ui-options-function-text-word-backspace = Backspace word
+ui-options-function-text-word-delete = Delete word
+ui-options-function-text-newline = Newline
+ui-options-function-text-submit = Submit
+ui-options-function-multiline-text-submit = Submit multiline
+ui-options-function-text-select-all = Select all
+ui-options-function-text-copy = Copy
+ui-options-function-text-cut = Cut
+ui-options-function-text-paste = Paste
+ui-options-function-text-history-prev = Previous from history
+ui-options-function-text-history-next = Next from history
+ui-options-function-text-release-focus = Release focus
+ui-options-function-text-scroll-to-bottom = Scroll to bottom
+ui-options-function-text-tab-complete = Tab completion
+ui-options-function-text-complete-next = Complete next
+ui-options-function-text-complete-prev = Complete previous
 
 ## Network menu
 
