@@ -10,3 +10,4 @@ id-card-console-window-job-selection-label = ジョブのプリセット（部�
 access-id-card-console-component-no-hands-error = 手がありません。
 id-card-console-privileged-id = 特権ID
 id-card-console-target-id = ターゲットID
+id-card-console-damaged = 構造的完全性が損なわれ、コンテンツが取り出される。

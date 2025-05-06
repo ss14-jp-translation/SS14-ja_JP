@@ -215,16 +215,26 @@ ui-options-function-show-debug-monitors = デバッグを表示モニター
 ui-options-function-inspect-entity = エンティティの検査
 ui-options-function-hide-ui = UI の非表示
 
-ui-options-function-hotbar1 = ホットバースロット 1
-ui-options-function-hotbar2 = ホットバースロット 2
-ui-options-function-hotbar3 = ホットバースロット 3
-ui-options-function-hotbar4 = ホットバースロット 4
-ui-options-function-hotbar5 = ホットバースロット 5
-ui-options-function-hotbar6 = ホットバースロット 6
-ui-options-function-hotbar7 = ホットバースロット 7
-ui-options-function-hotbar8 = ホットバースロット 8
-ui-options-function-hotbar9 = ホットバースロット 9
-ui-options-function-hotbar0 = ホットバースロット 0
+ui-options-function-hotbar1 = ホットバー・スロット 1
+ui-options-function-hotbar2 = ホットバー・スロット 2
+ui-options-function-hotbar3 = ホットバー・スロット 3
+ui-options-function-hotbar4 = ホットバー・スロット 4
+ui-options-function-hotbar5 = ホットバー・スロット 5
+ui-options-function-hotbar6 = ホットバー・スロット 6
+ui-options-function-hotbar7 = ホットバー・スロット 7
+ui-options-function-hotbar8 = ホットバー・スロット 8
+ui-options-function-hotbar9 = ホットバー・スロット 9
+ui-options-function-hotbar0 = ホットバー・スロット 0
+ui-options-function-hotbarshift1 = ホットバー・スロット Shift+1
+ui-options-function-hotbarshift2 = ホットバー・スロット Shift+2
+ui-options-function-hotbarshift3 = ホットバー・スロット Shift+3
+ui-options-function-hotbarshift4 = ホットバー・スロット Shift+4
+ui-options-function-hotbarshift5 = ホットバー・スロット Shift+5
+ui-options-function-hotbarshift6 = ホットバー・スロット Shift+6
+ui-options-function-hotbarshift7 = ホットバー・スロット Shift+7
+ui-options-function-hotbarshift8 = ホットバー・スロット Shift+8
+ui-options-function-hotbarshift9 = ホットバー・スロット Shift+9
+ui-options-function-hotbarshift0 = ホットバー・スロット Shift+0
 ui-options-function-loadout1 = ホットバーロードアウト1
 ui-options-function-loadout2 = ホットバーロードアウト 2
 ui-options-function-loadout3 = ホットバーロードアウト 3
@@ -235,6 +245,16 @@ ui-options-function-loadout7 = ホットバーロードアウト 7
 ui-options-function-loadout8 = ホットバーロードアウト 8
 ui-options-function-loadout9 = ホットバーロードアウト 9
 ui-options-function-loadout0 = ホットバーロードアウト 0
+ui-options-function-loadoutshift1 = ホットバー・ロードアウト Shift+1
+ui-options-function-loadoutshift2 = ホットバー・ロードアウト Shift+2
+ui-options-function-loadoutshift3 = ホットバー・ロードアウト Shift+3
+ui-options-function-loadoutshift4 = ホットバー・ロードアウト Shift+4
+ui-options-function-loadoutshift5 = ホットバー・ロードアウト Shift+5
+ui-options-function-loadoutshift6 = ホットバー・ロードアウト Shift+6
+ui-options-function-loadoutshift7 = ホットバー・ロードアウト Shift+7
+ui-options-function-loadoutshift8 = ホットバー・ロードアウト Shift+8
+ui-options-function-loadoutshift9 = ホットバー・ロードアウト Shift+9
+ui-options-function-loadoutshift0 = ホットバー・ロードアウト Shift+0
 
 ui-options-function-shuttle-strafe-up = 上方向への移動
 ui-options-function-shuttle-strafe-right = 右方向への移動
@@ -335,4 +355,39 @@ ui-options-censor-nudity = 文字のヌードを検閲する。
 
 ## Admin menu
 
-ui-options-enable-classic-overlay = アンタゴニストのオーバーレイをクラシック・モードに戻す
+ui-options-admin-player-panel = アドミンメニュー選手リスト
+
+ui-options-admin-player-tab-symbol-setting = 文字列のタグ設定
+ui-options-admin-player-tab-symbol-setting-off = アンタグシンボルなし
+ui-options-admin-player-tab-symbol-setting-basic = 標準のアンタグシンボルを表示する。
+ui-options-admin-player-tab-symbol-setting-specific = 特定のアンタグシンボルを表示する
+
+ui-options-admin-player-tab-role-setting = 役割の表示設定
+ui-options-admin-player-tab-role-setting-roletype = 役割タイプを表示する
+ui-options-admin-player-tab-role-setting-subtype = サブタイプを表示する
+ui-options-admin-player-tab-role-setting-roletypesubtype = ロールのタイプとサブタイプを表示する
+ui-options-admin-player-tab-role-setting-subtyperoletype = サブタイプとロールタイプを表示する
+
+ui-options-admin-player-tab-color-setting = 色の設定
+ui-options-admin-player-tab-color-setting-off = 私は色が嫌いです。
+ui-options-admin-player-tab-color-setting-character = アンタグキャラクターの名前をカラーにする
+ui-options-admin-player-tab-color-setting-roletype = すべてのロールタイプに色をつける
+ui-options-admin-player-tab-color-setting-both = 両方の色を設定する
+
+ui-options-admin-overlay-title = アドミンオーバーレイ
+
+ui-options-admin-overlay-antag-format = アンタグラベルスタイル
+ui-options-admin-overlay-antag-format-binary = アンタグステータスを表示する。
+ui-options-admin-overlay-antag-format-roletype = ロールの種類を表示する。
+ui-options-admin-overlay-antag-format-subtype = サブタイプを表示する。
+
+ui-options-admin-overlay-antag-symbol = アンタグシンボルスタイル
+ui-options-admin-overlay-antag-symbol-off = アンタグシンボルを表示しない
+ui-options-admin-overlay-antag-symbol-basic = 標準のタグ記号を表示する。
+ui-options-admin-overlay-antag-symbol-specific = 特定のアンタグシンボルを表示する
+
+ui-options-admin-enable-overlay-playtime = プレイタイムを表示する。
+ui-options-admin-enable-overlay-starting-job = 開始ジョブを表示する。
+ui-options-admin-overlay-merge-distance = マージ距離をスタックする。
+ui-options-admin-overlay-ghost-fade-distance = マウスからのゴーストオーバーレイフェード範囲
+ui-options-admin-overlay-ghost-hide-distance = ゴーストオーバーレイマウスからの非表示距離

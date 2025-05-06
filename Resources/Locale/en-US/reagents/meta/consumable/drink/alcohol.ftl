@@ -61,6 +61,9 @@ reagent-desc-champagne = 高級スパークリングワイン。
 reagent-name-acid-spit = acidspit
 reagent-desc-acid-spit = A drink for the daring, can be deadly if incorrectly prepared!
 
+reagent-name-alien-brain-hemorrhage = alien brain hemorrhage
+reagent-desc-alien-brain-hemorrhage = You might want to get that checked out at Med.
+
 reagent-name-allies-cocktail = allies cocktail
 reagent-desc-allies-cocktail = A drink made from your allies, not as sweet as when made from your enemies.
 
@@ -109,28 +112,43 @@ reagent-desc-booger = Ewww...
 reagent-name-brave-bull = 勇敢な雄牛
 reagent-desc-brave-bull = Dutch-Courageと同じくらい効果的です！
 
+reagent-name-bronx = ブロンクス
+reagent-desc-bronx = マンハッタンとマティーニのオレンジ風味の従兄弟。
+
 reagent-name-coconut-rum = ココナッツ・ラム
-reagent-desc-coconut-rum = ココナッツ入りのラム酒で、トロピカルな気分を味わえます。
+reagent-desc-coconut-rum = ラム酒にココナッツを加えたトロピカルな味わい。
 
 reagent-name-cosmopolitan = コスモポリタン
 reagent-desc-cosmopolitan = 最悪の状況でも、フレッシュなコスモポリタンに勝るものはない。
 
+reagent-name-crush-depth = クラッシュの深さ
+reagent-desc-crush-depth = アビソペラギックを彷彿とさせるスタイジアンな飲み物。最も古くからある感情は恐怖であり、最も強い恐怖の種類は未知の恐怖であることを思い出させてくれる。
+
 reagent-name-cuba-libre = キューバ・リブレ
 reagent-desc-cuba-libre = ラム酒をコーラで割ったもの。ビバ・ラ・レボリューション!
 
-reagent-name-demons-blood = demons blood
-reagent-desc-demons-blood = AHHHH!!!!
+reagent-name-dark-and-stormy = 暗黒と嵐
+reagent-desc-dark-and-stormy = 雷鳴が聞こえてきそうだ。
 
-reagent-name-devils-kiss = devils kiss
-reagent-desc-devils-kiss = Creepy time!
+reagent-name-demons-blood = 鬼血
+reagent-desc-demons-blood = ああああああああああああああああああああああ
 
-reagent-name-doctors-delight = the doctor's delight
-reagent-desc-doctors-delight = A gulp a day keeps the MediBot away. That's probably for the best.
+reagent-name-devils-kiss = 悪魔のキス
+reagent-desc-devils-kiss = 不気味な時間！
 
-reagent-name-driest-martini = driest martini
-reagent-desc-driest-martini = Only for the experienced. You think you see sand floating in the glass.
+reagent-name-doctors-delight = 医師の喜び
+reagent-desc-doctors-delight = 一日一杯でMediBotを遠ざける。それが一番だろう。
 
-reagent-name-erika-surprise = erika surprise
+reagent-name-driest-martini = ドレスト・マティーニ
+reagent-desc-driest-martini = 経験者のみ。グラスの中に砂が浮いているように見える。
+
+reagent-name-eggnog = eggnog
+reagent-desc-eggnog = Not enough egg.
+
+reagent-name-electric-shark = electric shark
+reagent-desc-electric-shark = Fun Shark fact: Selachians make up 20% of Space Station 16’s Engineering staff!
+
+reagent-name-erika-surprise = Erika surprise
 reagent-desc-erika-surprise = The surprise is, it's green!
 
 reagent-name-gargle-blaster = Pan-Galactic Gargle Blaster
@@ -157,8 +175,8 @@ reagent-desc-hooch = Either someone's failure at cocktail making or attempt in a
 reagent-name-iced-beer = iced beer
 reagent-desc-iced-beer = A beer which is so cold the air around it freezes.
 
-reagent-name-irish-slammer = irish slammer
-reagent-desc-irish-slammer = An unconventional mixture of irish cream and stout.
+reagent-name-irish-slammer = Grenade Penguin
+reagent-desc-irish-slammer = What's black and white and red all over?
 
 reagent-name-irish-cream = irish cream
 reagent-desc-irish-cream = Whiskey-imbued cream. What else could you expect from the Irish.
@@ -166,10 +184,22 @@ reagent-desc-irish-cream = Whiskey-imbued cream. What else could you expect from
 reagent-name-irish-coffee = irish coffee
 reagent-desc-irish-coffee = Coffee served with irish cream. Regular cream just isn't the same!
 
-reagent-name-kira-special = kira special
-reagent-desc-kira-special = Long live the guy who everyone had mistaken for a girl. Baka!
+reagent-name-jack-rose = Jack rose
+reagent-desc-jack-rose = Excessively Red.
 
-reagent-name-long-island-iced-tea = long island iced tea
+reagent-name-jungle-bird = jungle bird
+reagent-desc-jungle-bird = Despite the name, it’s not exceptionally popular among Voxes.
+
+reagent-name-kalimotxo = kalimotxo
+reagent-desc-kalimotxo = A high-class Cuba Libre, for the discerning alcoholic.
+
+reagent-name-kira-special = キラキラ・スペシャル
+reagent-desc-kira-special = 誰もが女の子と間違えていた特別な名前の男、万歳。バーカ！
+
+reagent-name-tortuga = Tortuga
+reagent-desc-tortuga = Perfect for pirates who’ve been selected as the designated driver. Yarr!
+
+reagent-name-long-island-iced-tea = Long Island iced tea
 reagent-desc-long-island-iced-tea = The liquor cabinet, brought together in a delicious mix. Intended for middle-aged alcoholic women only.
 
 reagent-name-manhattan = manhattan
@@ -184,14 +214,17 @@ reagent-desc-manly-dorf = Beer and Ale, brought together in a delicious mix. Int
 reagent-name-margarita = margarita
 reagent-desc-margarita = On the rocks with salt on the rim. Arriba~!
 
-reagent-name-martini = classic martini
-reagent-desc-martini = Vermouth with Gin. Not quite how 007 enjoyed it, but still delicious.
+reagent-name-martini = クラシック・マティーニ
+reagent-desc-martini = ベルモットのジン割り。007の楽しみ方とはちょっと違うが、それでも美味しい。
 
 reagent-name-mead = 蜂蜜酒
 reagent-desc-mead = ヴァイキングの飲み物。
 
-reagent-name-mojito = mojito
-reagent-desc-mojito = If it's good enough for Spesscuba, it's good enough for you.
+reagent-name-mojito = モヒート
+reagent-desc-mojito = スペースキューバで十分なら、あなたにも十分。
+
+reagent-name-monkey-business = monkey business
+reagent-desc-monkey-business = You’ve got to wonder how the monkeys feel about this drink.
 
 reagent-name-moonshine = 密造酒
 reagent-desc-moonshine = 職人の手作り酒。何がいけないのだろう？
@@ -207,6 +240,9 @@ reagent-desc-patron = Tequila with silver in it, a favorite of alcoholic women i
 
 reagent-name-pina-colada = piña colada
 reagent-desc-pina-colada = For getting lost in the rain.
+
+reagent-name-radler = radler
+reagent-desc-radler = A simple but staple classic, straight out of Space-Germany.
 
 reagent-name-red-mead = red mead
 reagent-desc-red-mead = The true Viking's drink! Even though it has a strange red color.
@@ -247,6 +283,9 @@ reagent-desc-three-mile-island = "Made for a woman, strong enough for a man."
 reagent-name-toxins-special = toxins special
 reagent-desc-toxins-special = This thing is ON FIRE! CALL THE DAMN SHUTTLE!
 
+reagent-name-vampiro = vampiro
+reagent-desc-vampiro = Popular in Mexico and Transylvania.
+
 reagent-name-vodka-martini = vodka martini
 reagent-desc-vodka-martini = Vodka instead of Gin. Not quite how 007 enjoyed it, but still delicious.
 
@@ -280,5 +319,41 @@ reagent-desc-watermelon-wakeup = If you want to be awake, this will do it... Als
 reagent-name-rubberneck = rubberneck
 reagent-desc-rubberneck = A popular drink amongst those adhering to an all synthetic diet.
 
-reagent-name-zombiecocktail = zombie
+reagent-name-caipirinha = caipirinha
+reagent-desc-caipirinha = The São Paulo special, straight from old Brazil.
+
+reagent-name-daiquiri = daiquiri
+reagent-desc-daiquiri = A classic rum cocktail which remains popular even in the cold reaches of space.
+
+reagent-name-death-in-the-afternoon = death in the afternoon
+reagent-desc-death-in-the-afternoon = "Pour one jigger absinthe into a Champagne glass. Add iced Champagne until it attains the proper opalescent milkiness. Drink three to five of these slowly." - Ernest Hemingway
+
+reagent-name-empress-75 = empress 75
+reagent-desc-empress-75 = A more refined take on the mimosa. Just the thing Marie Antoinette might've sipped on before the revolution.
+
+reagent-name-espresso-martini = espresso martini
+reagent-desc-espresso-martini = To wake you up and wind you down. Garnished with coffee beans and icy-cold.
+
+reagent-name-mayojito = mayojito
+reagent-desc-mayojito = An affront to god and man. Do not drink it.
+
+reagent-name-mimeosa = mimeosa
+reagent-desc-mimeosa = It has an orange tang so sour you just can't describe it.
+
+reagent-name-mimosa = mimosa
+reagent-desc-mimosa = Perfect for a lively brunch out with the girls.
+
+reagent-name-moscow-mule = moscow mule
+reagent-desc-moscow-mule = A surpsingly strong and refreshing mixed drink, served in an iconic copper mug.
+
+reagent-name-the-sun-also-rises = the sun also rises
+reagent-desc-the-sun-also-rises = A strong cocktail mixed into a murky blend. A secret favorite of tortured authors.
+
+reagent-name-whiskey-sour = whiskey sour
+reagent-desc-whiskey-sour = What's the secret ingredient? Eggs. It's eggs.
+
+reagent-name-zombiecocktail = Zombie
 reagent-desc-zombiecocktail = It gets in your head. Your he-eyeh-ead.
+
+reagent-name-bacchus-blessing = bacchus's blessing
+reagent-desc-bacchus-blessing = You didn't think it was possible for a liquid to be so utterly revolting. Are you sure about this...?

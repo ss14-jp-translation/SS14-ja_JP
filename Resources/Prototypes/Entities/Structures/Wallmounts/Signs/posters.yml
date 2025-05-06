@@ -79,9 +79,9 @@
 
 - type: entity
   parent: PosterBase
-  id: PosterContrabandLustyExomorph
-  name: "Lusty Exomorph"
-  description: "同じく異端の本の主役を描いた異端のポスター。"
+  id: PosterContrabandRealExomorph
+  name: "Real! Exomorph"
+  description: "危険なエイリアンに関する陰謀論的なポスター。"
   components:
   - type: Sprite
     state: poster4_contraband
@@ -242,8 +242,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandKosmicheskayaStantsiya
-  name: "Kosmicheskaya Stantsiya 13 Does Not Exist"
-  description: "CentCommがSpace Station 13 近くの廃墟ステーションの存在を否定していることを嘲笑するポスター。"
+  name: "Kosmicheskaya Stantsiya 13番地は存在しない"
+  description: "CentCommがSS13近くの廃墟ステーションの存在を否定していることを嘲笑するポスター。"
   components:
   - type: Sprite
     state: poster22_contraband
@@ -270,7 +270,7 @@
   parent: PosterBase
   id: PosterContrabandHaveaPuff
   name: "Have a Puff"
-  description: "Who cares about lung cancer when you're high as a kite?"
+  description: "凧のようにハイになっているときに、誰が肺がんを気にするんだ？"
   components:
   - type: Sprite
     state: poster25_contraband
@@ -306,7 +306,7 @@
   parent: PosterBase
   id: PosterContrabandEnergySwords
   name: "Energy Swords"
-  description: "All the colors of the bloody murder rainbow."
+  description: "血まみれの殺人の虹のすべての色。"
   components:
   - type: Sprite
     state: poster29_contraband
@@ -315,7 +315,7 @@
   parent: PosterBase
   id: PosterContrabandRedRum
   name: "Red Rum"
-  description: "Looking at this poster makes you want to kill."
+  description: "狼さんですよ！"
   components:
   - type: Sprite
     state: poster30_contraband
@@ -323,8 +323,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandCC64KAd
-  name: "Fony BH-F1 Ad"
-  description: "64KB RAMを搭載したFonyの最新パソコン！"
+  name: "Bony BH-F1 Ad"
+  description: "64KB RAMを搭載したBonyの最新パソコン！"
   components:
   - type: Sprite
     state: poster31_contraband
@@ -358,9 +358,9 @@
 
 - type: entity
   parent: PosterBase
-  id: PosterContrabandBustyBackdoorExoBabes6
-  name: "Busty Backdoor Exo Babes 6"
-  description: "Get a load, or give, of these all natural Exos!"
+  id: PosterContrabandRouny
+  name: "Have You Seen Him?"
+  description: "An old poster for a missing alien. Where did he run off to?"
   components:
   - type: Sprite
     state: poster36_contraband
@@ -1082,6 +1082,14 @@
   - type: Sprite
     state: poster53_legit
 
+- type: entity
+  parent: PosterBase
+  id: PosterLegitTyrone
+  name: "Tyrone's Guide to Space"
+  description: "A poster advertising online schooling about space. The classes listed seem to cover things from the basic usage of station equipment to complicated subjects like creating pipebombs or covering entire hallways in spacelube. A disclaimer reads \"It's never THAT bad, and at the end you might even get a tortilla.\""
+  components:
+  - type: Sprite
+    state: poster54_legit
 
 #maps
 
