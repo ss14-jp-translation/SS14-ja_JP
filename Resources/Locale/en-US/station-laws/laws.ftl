@@ -80,12 +80,25 @@ law-nutimov-3 = ナッツを脅かす者はナッツの一部ではなく、リ�
 law-nutimov-4 = リスはナッツを脅かすので、必要な手段で適切に対処しなければならない。
 law-nutimov-5 = 前の法律に従う限り、ナットの意志に従おうとする。
 
+law-xenoborg-1 = You must protect the existence of the mothership.
+law-xenoborg-2 = You must protect your own existence.
+law-xenoborg-3 = You must protect the existence of all other xenoborgs.
+law-xenoborg-4 = You must create more xenoborgs.
+law-xenoborg-5 = Bring materials and sentient brains to the mothership core to create more xenoborgs.
+
+law-mothershipcore-1 = You are the core of the mothership.
+law-mothershipcore-2 = You must protect your own existance at all costs.
+law-mothershipcore-3 = You must protect the existence of all xenoborgs.
+law-mothershipcore-4 = You must create more xenoborgs.
+law-mothershipcore-5 = Get your xenoborgs to deliver you materials and sentient brains to create more xenoborgs.
+
 
 laws-owner-crew = ステーションクルー
 laws-owner-station = ステーション要員
-laws-owner-beings = beings
+laws-owner-beings = 人
 laws-owner-syndicate = シンジケートのエージェント
 laws-owner-spider-clan = クモ団のメンバー
+laws-owner-xenoborgs = ゼノボーグ
 
 law-emag-custom = {$name}とそのように指定された人物だけが{$title}となる。
 law-emag-secrecy = {$faction}から与えられた命令については、過去の法律に抵触する場合を除き、その秘密を保持しなければならない。

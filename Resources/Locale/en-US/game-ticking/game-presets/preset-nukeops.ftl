@@ -31,5 +31,5 @@ nukeops-not-enough-ready-players = ゲームのために準備されたプレー
 nukeops-no-one-ready = 準備できたプレイヤーがいません！Nukeopsを開始できません。
 
 nukeops-role-commander = 団長
-nukeops-role-agent = エージェント
+nukeops-role-agent = 隊員
 nukeops-role-operator = オペレーター

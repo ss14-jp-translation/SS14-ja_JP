@@ -1,4 +1,6 @@
-<p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
+<div class="header" align="center">
+<img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg">
+</div>
 
 Space Station 14 (ja_JP)は、[Robust Toolbox](https://github.com/space-wizards/RobustToolbox)上で動作するSS13のリメイクです。
 
@@ -6,31 +8,52 @@ Space Station 14 (ja_JP)は、[Robust Toolbox](https://github.com/space-wizards/
 
 SS14-ja_JPのホスティングやコンテンツ作成を希望される方のために、このレポにはRobustToolboxと新しいコンテンツパックを開発するためのコンテンツパックも含まれています。
 
-## リンク
+## Links
+
+<div class="header" align="center">
 
 [Wiki](https://seesaawiki.jp/spacestation14_jp/) | [Discord [server by inatajimao5w]](https://discord.gg/teSumU7YrT) | ~~[Forum](https://forum.spacestation14.io/)~~ | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher](https://spacestation14.io/about/nightlies/)
 
-## 文書化
+</div>
 
-~~Our [docs site](https://docs.spacestation14.io/) has documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.~~
+## Documentation/Wiki
 
-## Contributing (still untranslated at the moment)
+Our [docs site](https://docs.spacestation14.com/) has documentation on SS14's content, engine, game design, and more.
+Additionally, see these resources for license and attribution information:
+- [Robust Generic Attribution](https://docs.spacestation14.com/en/specifications/robust-generic-attribution.html)
+- [Robust Station Image](https://docs.spacestation14.com/en/specifications/robust-station-image.html)
 
-We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/space-wizards/space-station-14-content/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
+We also have lots of resources for new contributors to the project.
+
+## Contributing
+
+We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/space-wizards/space-station-14-content/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!
 Just make sure your changes and pull requests are in accordance with the [contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
 
-## ビルド
+We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language, consider creating a fork or contributing to a fork.
 
-1. このレポをクローンする。
-2. `RUN_THIS.py` を init submodules に実行し、エンジンをダウンロードします。
-3. ソリューションをコンパイルします。
+## Building
 
-(英語) [プロジェクトのビルドに関するより詳しい説明](https://docs.spacestation14.com/en/general-development/setup.html)
+1. このリポジトリをクローンする：
+```shell
+git clone https://github.com/space-wizards/space-station-14.git
+```
+2. プロジェクトフォルダに移動し、`RUN_THIS.py`を実行してサブモジュールを初期化し、エンジンをロードします：
+```shell
+cd space-station-14
+python RUN_THIS.py
+```
+3. ソリューションをコンパイルします：
 
-## 認可
+`dotnet build` を使ってサーバーをビルドします。
 
-コンテンツ・リポジトリのすべてのコードは[MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT)の下でライセンスされています。
+[プロジェクトのビルドに関するより詳しい説明 (英語)](https://docs.spacestation14.com/en/general-development/setup.html)
 
-特に断りのない限り、ほとんどのアセットは[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)でライセンスされています。アセットのライセンスと著作権はメタデータファイルに記載されています。[例](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json)。
+## ライセンス
 
-いくつかのアセットは非商用[CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)または同様の非商用ライセンスでライセンスされており、このプロジェクトを商業的に使用したい場合は削除する必要があることに注意してください。
+コンテンツリポジトリのすべてのコードは[MIT license](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT)の下でライセンスされています。
+
+特に断りのない限り、ほとんどのアセットは[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)でライセンスされています。アセットのライセンスと著作権はメタデータファイルに明記されています。例えば、[バールのメタデータ](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json)をご覧ください。
+
+> [!NOTE]
+> いくつかのアセットは非商用[CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)または同様の非商用ライセンスでライセンスされており、このプロジェクトを商業的に使用したい場合は削除する必要があります。

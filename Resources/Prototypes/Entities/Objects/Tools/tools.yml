@@ -357,7 +357,7 @@
   id: RCDRecharging
   parent: RCD
   name: experimental RCD
-  description: パッシブに圧縮物質を生成するブルースペース強化型RCD。
+  description: サイボーグに搭載された高速建設装置。内部のファブリケーターで圧縮された物質をその場で作り出す。
   suffix: AutoRecharge
   components:
   - type: LimitedCharges
