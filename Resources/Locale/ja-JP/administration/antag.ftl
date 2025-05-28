@@ -1,20 +1,18 @@
 verb-categories-antag = Antag ctrl
-admin-verb-make-traitor = Make the target into a traitor.
-admin-verb-make-initial-infected = Make the target into an Initial Infected.
-admin-verb-make-zombie = Zombifies the target immediately.
-admin-verb-make-nuclear-operative = Make target into a lone Nuclear Operative.
-admin-verb-make-pirate = Make the target into a pirate. Note this doesn't configure the game rule.
-admin-verb-make-head-rev = Make the target into a Head Revolutionary.
-admin-verb-make-thief = Make the target into a thief.
-admin-verb-make-paradox-clone = Create a Paradox Clone ghost role of the target.
+admin-verb-make-traitor = 標的を裏切り者にする。
+admin-verb-make-initial-infected = 標的を初期感染者にする。
+admin-verb-make-zombie = 標的を即座にゾンビ化する。
+admin-verb-make-nuclear-operative = 標的を一人の核工作員にする。
+admin-verb-make-pirate = 標的を海賊にする。
+admin-verb-make-head-rev = ターゲットをヘッド革命家にする。
+admin-verb-make-thief = ターゲットを泥棒にする。
+admin-verb-make-paradox-clone = ターゲットのパラドックスクローンゴースト役を作る。
 
-admin-verb-text-make-traitor = Make Traitor
-admin-verb-text-make-initial-infected = Make Initial Infected
-admin-verb-text-make-zombie = Make Zombie
-admin-verb-text-make-nuclear-operative = Make Nuclear Operative
-admin-verb-text-make-pirate = Make Pirate
-admin-verb-text-make-head-rev = Make Head Rev
-admin-verb-text-make-thief = Make Thief
-admin-verb-text-make-paradox-clone = Create Paradox Clone
+admin-verb-text-make-traitor = 裏切り者を作る
+admin-verb-text-make-initial-infected = 初期感染者を作る
+admin-verb-text-make-pirate = 海賊を作る
+admin-verb-text-make-head-rev = ヘッドレヴを作る
+admin-verb-text-make-thief = 泥棒を作る
+admin-verb-text-make-paradox-clone = パラドックスクローンを作る。
 
 admin-overlay-antag-classic = ANTAG

@@ -1,15 +1,15 @@
-stethoscope-verb = Listen with stethoscope
+stethoscope-verb = 聴診器で聴く。
 
-stethoscope-nothing = You don't hear anything.
+stethoscope-nothing = 何も聞こえない。
 
-stethoscope-normal = You hear normal breathing.
-stethoscope-raggedy = You hear raggedy breathing.
-stethoscope-hyper = You hear hyperventilation.
-stethoscope-irregular = You hear hyperventilation with an irregular pattern.
-stethoscope-fucked = You hear twitchy, labored breathing interspersed with short gasps.
+stethoscope-normal = 普通の呼吸が聞こえます。
+stethoscope-raggedy = 荒い呼吸が聞こえます。
+stethoscope-hyper = 過呼吸が聞こえます。
+stethoscope-irregular = 不規則なパターンの過呼吸が聞こえます。
+stethoscope-fucked = ピクピクとした苦しそうな呼吸と短いあえぎ声が聞こえる。
 
-stethoscope-delta-steady = It's steady.
-stethoscope-delta-improving = It's improving.
-stethoscope-delta-worsening = It's getting worse.
+stethoscope-delta-steady = 安定している。
+stethoscope-delta-improving = 改善している。
+stethoscope-delta-worsening = 悪化している。
 
 stethoscope-combined-status = {$absolute} {$delta}

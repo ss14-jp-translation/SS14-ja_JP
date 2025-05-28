@@ -1,6 +1,6 @@
-flavor-profile = Tastes {$flavor}.
-flavor-profile-multiple = Tastes {$flavors} and {$lastFlavor}.
-flavor-profile-unknown = Tastes indescribable.
+flavor-profile = 味は{$flavor}。
+flavor-profile-multiple = 味は{$flavors}くて{$lastFlavor}。
+flavor-profile-unknown = 何とも言えない味だ。
 
 # Base flavors. Use these when you can't think of anything.
 # These are specifically flavors that are placed in front
@@ -8,57 +8,57 @@ flavor-profile-unknown = Tastes indescribable.
 # will go in front so you don't get this like "Tastes like tomatoes, sweet and spicy",
 # instead, you get "Tastes sweet, spicy and like tomatoes".
 
-flavor-base-savory = savory
-flavor-base-sweet = sweet
-flavor-base-salty = salty
-flavor-base-sour = sour
-flavor-base-bitter = bitter
-flavor-base-spicy = spicy
-flavor-base-metallic = metallic
-flavor-base-meaty = meaty
-flavor-base-fishy = fishy
-flavor-base-crabby = crabby
-flavor-base-cheesy = cheesy
-flavor-base-funny = funny
-flavor-base-strange = strange
-flavor-base-tingly = tingly
-flavor-base-acid = acidic
-flavor-base-leafy = leafy
-flavor-base-minty = minty
-flavor-base-nutty = nutty
-flavor-base-chalky = chalky
-flavor-base-oily = oily
-flavor-base-peppery = peppery
-flavor-base-slimy = slimy
-flavor-base-magical = magical
-flavor-base-fiber = fibrous
-flavor-base-cold = cold
-flavor-base-spooky = spooky
-flavor-base-smokey = smokey
-flavor-base-fruity = fruity
-flavor-base-creamy = creamy
-flavor-base-fizzy = fizzy
-flavor-base-shocking = shocking
-flavor-base-cheap = cheap
-flavor-base-piquant = piquant
-flavor-base-sharp = sharp
-flavor-base-syrupy = syrupy
-flavor-base-spaceshroom = mysterious
-flavor-base-clean = clean
-flavor-base-alkaline = alkaline
-flavor-base-holy = holy
-flavor-base-horrible = horrible
+flavor-base-savory = 香ばしい
+flavor-base-sweet = 甘い
+flavor-base-salty = 塩辛い
+flavor-base-sour = 酸っぱい
+flavor-base-bitter = 苦い
+flavor-base-spicy = 辛い
+flavor-base-metallic = 金属的
+flavor-base-meaty = 肉っぽい
+flavor-base-fishy = 生臭い
+flavor-base-crabby = 蟹っぽい
+flavor-base-cheesy = 安っぽい
+flavor-base-funny = 面白い
+flavor-base-strange = 奇妙な
+flavor-base-tingly = ピリピリする
+flavor-base-acid = 酸っぱい
+flavor-base-leafy = 葉っぱ
+flavor-base-minty = ミンティ
+flavor-base-nutty = ナッティ
+flavor-base-chalky = カルキー
+flavor-base-oily = 油っぽい
+flavor-base-peppery = 胡椒っぽい
+flavor-base-slimy = ぬるぬる
+flavor-base-magical = 不思議
+flavor-base-fiber = 繊維質
+flavor-base-cold = 冷たい
+flavor-base-spooky = 不気味
+flavor-base-smokey = スモーキー
+flavor-base-fruity = フルーティー
+flavor-base-creamy = クリーミー
+flavor-base-fizzy = 発泡性
+flavor-base-shocking = 衝撃的
+flavor-base-cheap = 安い
+flavor-base-piquant = ピリ辛
+flavor-base-sharp = 鋭い
+flavor-base-syrupy = シロップ状
+flavor-base-spaceshroom = ミステリアス
+flavor-base-clean = 清潔
+flavor-base-alkaline = アルカリ性
+flavor-base-holy = 聖なる
+flavor-base-horrible = 恐ろしい
 # lmao
-flavor-base-terrible = terrible
-flavor-base-mindful = mindful
-flavor-base-chewy = chewy
-flavor-base-trashy = trashy
+flavor-base-terrible = ひどい
+flavor-base-mindful = ニューロン
+flavor-base-chewy = モチモチ
+flavor-base-trashy = ゴミ
 
 # Complex flavors. Put a flavor here when you want something that's more
 # specific.
 
-flavor-complex-nothing = like nothing
-flavor-complex-honey = like honey
+flavor-complex-nothing = NaN
+flavor-complex-honey = はちみつ
 
 # Condiments
 
